@@ -1,0 +1,10 @@
+a=40
+b=45.7
+c="tops"
+d=True
+e=10j
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
